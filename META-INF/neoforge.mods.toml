@@ -4,7 +4,7 @@ license="MIT"
 
 [[mods]]
 modId="better_death_messages"
-version="1.1.0"
+version="1.1.1"
 displayName="Better Death Messages"
 displayURL="https://github.com/My-Time-Studios/Better_Death_Messages"
 logoFile="logo.png"
@@ -24,4 +24,5 @@ description="Changes death messages to add some humor, references, and personali
     type="required"
     versionRange="[1.21.1]"
     ordering="AFTER"
+
     side="BOTH"
