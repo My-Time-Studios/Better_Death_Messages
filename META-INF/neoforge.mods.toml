@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="better_death_messages"
+version="1.1.0"
+displayName="Better Death Messages"
+displayURL="https://github.com/My-Time-Studios/Better_Death_Messages"
+logoFile="logo.png"
+credits="BlockMiner2k"
+authors="My Time Studios"
+description="Changes death messages to add some humor, references, and personality to dying!"
+
+[[dependencies.new_death_messages]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.new_death_messages]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"

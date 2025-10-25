@@ -1,0 +1,15 @@
+Êþº¾   A M
+       java/lang/Record <init> ()V	  	  
+ 
+  @net/mcreator/betterdeathmessages/BetterDeathMessagesMod$NetworkMessage reader )Lnet/minecraft/network/codec/StreamCodec;	      handler 9Lnet/neoforged/neoforge/network/handling/IPayloadHandler;      toString V(Lnet/mcreator/betterdeathmessages/BetterDeathMessagesMod$NetworkMessage;)Ljava/lang/String;      hashCode E(Lnet/mcreator/betterdeathmessages/BetterDeathMessagesMod$NetworkMessage;)I      equals W(Lnet/mcreator/betterdeathmessages/BetterDeathMessagesMod$NetworkMessage;Ljava/lang/Object;)Z 	Signature VLnet/minecraft/network/codec/StreamCodec<+Lnet/minecraft/network/FriendlyByteBuf;TT;>; >Lnet/neoforged/neoforge/network/handling/IPayloadHandler<TT;>; e(Lnet/minecraft/network/codec/StreamCodec;Lnet/neoforged/neoforge/network/handling/IPayloadHandler;)V Code LineNumberTable LocalVariableTable this BLnet/mcreator/betterdeathmessages/BetterDeathMessagesMod$NetworkMessage; LocalVariableTypeTable GLnet/mcreator/betterdeathmessages/BetterDeathMessagesMod$NetworkMessage<TT;>; MethodParameters —(Lnet/minecraft/network/codec/StreamCodec<+Lnet/minecraft/network/FriendlyByteBuf;TT;>;Lnet/neoforged/neoforge/network/handling/IPayloadHandler<TT;>;)V ()Ljava/lang/String; ()I (Ljava/lang/Object;)Z o Ljava/lang/Object; +()Lnet/minecraft/network/codec/StreamCodec; X()Lnet/minecraft/network/codec/StreamCodec<+Lnet/minecraft/network/FriendlyByteBuf;TT;>; ;()Lnet/neoforged/neoforge/network/handling/IPayloadHandler; @()Lnet/neoforged/neoforge/network/handling/IPayloadHandler<TT;>; Y<T::Lnet/minecraft/network/protocol/common/custom/CustomPacketPayload;>Ljava/lang/Record; 
+SourceFile BetterDeathMessagesMod.java NestHost  8 1net/mcreator/betterdeathmessages/BetterDeathMessagesMod Record BootstrapMethods < reader;handler   
+ @
+ A B  C D E java/lang/runtime/ObjectMethods 	bootstrap ±(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/TypeDescriptor;Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/invoke/MethodHandle;)Ljava/lang/Object; InnerClasses NetworkMessage  I %java/lang/invoke/MethodHandles$Lookup  K java/lang/invoke/MethodHandles Lookup 0       
+                       !   s     *· *+µ  *,µ 
+±    "       0 #         $ %      
+         &         $ '      
+         (   	 
+          )   *  !   C      *º   °    "       0 #         $ %   &         $ '     +  !   C      *º   ¬    "       0 #         $ %   &         $ '     ,  !   N     *+º   ¬    "       0 #        $ %      - .  &        $ '    
+ /  !   A     *´  °    "       0 #        $ %   &        $ '       0   1  !   A     *´ 
+°    "       0 #        $ %   &        $ '       2      3 4    5 6    7 9     
+                :     ?   ; = > F      7 G  H J L 
